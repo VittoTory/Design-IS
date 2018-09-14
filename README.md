@@ -2,7 +2,7 @@
 # Отчет о лабораторных работах
 ## Студент группы ИДБ-15-12 Епанешникова В.В.
 ### Лабораторная 1
-#### [Представление модели РАМУС в html](https://github.com/VittoTory/Design-IS/blob/master/1LR/%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C.htm)
+#### [Представление модели](https://github.com/VittoTory/Design-IS/edit/master/1LR/%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C.html)
 ### Лабораторная 2
 ### Лабораторная 3
 ### Лабораторная 4
