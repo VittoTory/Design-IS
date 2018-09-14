@@ -8,6 +8,8 @@
 * [Индивидуальное задание IDEF0 (rsf)](https://github.com/VittoTory/Design-IS/blob/master/1LR/Modelirovanie.rsf)
 * [Индивидуальное задание UML (png)](https://raw.githubusercontent.com/VittoTory/Design-IS/master/1LR/UML.png)
 * [Индивидуальное задание UML (txt)](https://github.com/VittoTory/Design-IS/blob/master/1LR/UML.txt)
+* [Индивидуальное задание DP (png)](https://raw.githubusercontent.com/VittoTory/Design-IS/master/1LR/DP.png)
+* [Индивидуальное задание DP (txt)](https://github.com/VittoTory/Design-IS/blob/master/1LR/DP.txt)
 ### Лабораторная 2
 ### Лабораторная 3
 ### Лабораторная 4
