@@ -1,0 +1,12 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class "Архитекторы сети" as P {
+ ПО для моделирования построения БЛВС
+Модель расположения ТД Моделировать (Планы зданий, ГОСТ, стандарты)
+}
+hide circle
+@enduml
