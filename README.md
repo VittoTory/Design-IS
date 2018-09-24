@@ -11,7 +11,7 @@
 * [Индивидуальное задание IDEF0 (rsf)](https://github.com/VittoTory/Design-IS/blob/master/1LR/Modelirovanie.rsf)
 
 * Индивидуальное задание UML (png)
-![none](https://raw.githubusercontent.com/VittoTory/Design-IS/master/1LR/UML.png)
+ ![none](https://raw.githubusercontent.com/VittoTory/Design-IS/master/1LR/UML.png)
 * [Индивидуальное задание UML (txt)](https://github.com/VittoTory/Design-IS/blob/master/1LR/UML.txt)
 
 * Индивидуальное задание DP (png)
