@@ -19,9 +19,19 @@
 * [Индивидуальное задание DP (txt)](https://github.com/VittoTory/Design-IS/blob/master/1LR/DP.txt)<br>
 ### Лабораторная 2
 
-* IDEF0 (png)
-![none] https://raw.githubusercontent.com/VittoTory/Design-IS/master/2LR/IDEF0.png
+* IDEF0 (png) <br>
+![none](https://raw.githubusercontent.com/VittoTory/Design-IS/master/2LR/IDEF0.png)
+ 
+* Plan-Do-Check (png) <br>
+![none](https://raw.githubusercontent.com/VittoTory/Design-IS/master/2LR/PDC.png)
 
+* DFD - 1 (png) <br>
+![none](https://raw.githubusercontent.com/VittoTory/Design-IS/master/2LR/DFD%20(BD).png)
+
+* DFD - 1 (png) <br>
+![none](https://raw.githubusercontent.com/VittoTory/Design-IS/master/2LR/DFD%20(2).png)
+
+* [Модель в формате rsf ](https://github.com/VittoTory/Design-IS/blob/master/2LR/Моделирование%20(декомпозиция).rsf) <br>
 
 ### Лабораторная 3
 ### Лабораторная 4
