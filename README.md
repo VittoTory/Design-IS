@@ -23,11 +23,11 @@
 * IDEF0 (png) <br>
 ![none](https://raw.githubusercontent.com/VittoTory/Design-IS/master/2LR/IDEF0.png)
  
- #### Определение надсистемы (среды функционирования) <br>
+ ### Определение надсистемы (среды функционирования) <br>
 * Plan-Do-Check (png) <br>
 ![none](https://raw.githubusercontent.com/VittoTory/Design-IS/master/2LR/PDC.png)
 
- #### Определение автоматизируемых видов деятельности <br>
+ ### Определение автоматизируемых видов деятельности <br>
 * DFD - 1 (png) <br>
 ![none](https://raw.githubusercontent.com/VittoTory/Design-IS/master/2LR/DFD%20(BD).png)
 
