@@ -1,7 +1,7 @@
 # Design-IS
 # Отчет о лабораторных работах
 ## Студент группы ИДБ-15-12 Епанешникова В.В.
-### Лабораторная работа №1
+## Лабораторная работа №1
 #### Пример IDEF0-диаграммы в RAMUS
 * Модель шесть вопросов (png)
 ![none](https://raw.githubusercontent.com/VittoTory/Design-IS/master/1LR/model.png)
@@ -17,7 +17,8 @@
 * Индивидуальное задание DP 
 ![none](https://raw.githubusercontent.com/VittoTory/Design-IS/master/1LR/DP.png)
 * [Индивидуальное задание DP (txt)](https://github.com/VittoTory/Design-IS/blob/master/1LR/DP.txt)<br>
-### Лабораторная 2
+
+## Лабораторная работа №2
 
 * IDEF0 (png) <br>
 ![none](https://raw.githubusercontent.com/VittoTory/Design-IS/master/2LR/IDEF0.png)
@@ -28,7 +29,7 @@
 * DFD - 1 (png) <br>
 ![none](https://raw.githubusercontent.com/VittoTory/Design-IS/master/2LR/DFD%20(BD).png)
 
-* DFD - 1 (png) <br>
+* DFD - 2 (png) <br>
 ![none](https://raw.githubusercontent.com/VittoTory/Design-IS/master/2LR/DFD%20(2).png)
 
 * [Модель в формате rsf ](https://github.com/VittoTory/Design-IS/blob/master/2LR/Моделирование%20(декомпозиция).rsf) <br>
