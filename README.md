@@ -18,6 +18,11 @@
 ![none](https://raw.githubusercontent.com/VittoTory/Design-IS/master/1LR/DP.png)
 * [Индивидуальное задание DP (txt)](https://github.com/VittoTory/Design-IS/blob/master/1LR/DP.txt)<br>
 ### Лабораторная 2
+
+* IDEF0 (png)
+![none] https://raw.githubusercontent.com/VittoTory/Design-IS/master/2LR/IDEF0.png
+
+
 ### Лабораторная 3
 ### Лабораторная 4
 ### Лабораторная 5
