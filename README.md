@@ -28,6 +28,9 @@
 ![none](https://raw.githubusercontent.com/VittoTory/Design-IS/master/2LR/PDC.png)
 
  ### Определение автоматизируемых видов деятельности <br>
+
+### Лабораторная 3
+
 * DFD - 1 (png) <br>
 ![none](https://raw.githubusercontent.com/VittoTory/Design-IS/master/2LR/DFD%20(BD).png)
 
@@ -36,7 +39,6 @@
 
 * [Модель в формате rsf ](https://github.com/VittoTory/Design-IS/blob/master/2LR/Моделирование%20(декомпозиция).rsf) <br>
 
-### Лабораторная 3
 ### Лабораторная 4
 ### Лабораторная 5
 ### Лабораторная 6
