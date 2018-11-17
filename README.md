@@ -47,9 +47,18 @@
   - Формальное определение темы курсового проекта (наименование информационной системы)
 * Разработка диаграмм в RAMUS
   - Создание контекстной диаграммы и диаграммы уровня A0 c 3-4 блоками
-  ![none](https://raw.githubusercontent.com/VittoTory/Design-IS/master/2LR/IDEF0.png)
+  ![none](https://raw.githubusercontent.com/VittoTory/Design-IS/master/4LR/01_A0.jpg)
   - Декомпозиция автоматизируемых блоков до уровня, прямо сопоставляемого с программными модулями
+  * Ветка А0 (png)
   ![none](https://raw.githubusercontent.com/VittoTory/Design-IS/master/4LR/02_A0.jpg)
+  * Ветка А1 (png)
+  ![none](https://raw.githubusercontent.com/VittoTory/Design-IS/master/4LR/03_A1.jpg)
+  * Ветка А2 (png)
+  ![none](https://raw.githubusercontent.com/VittoTory/Design-IS/master/4LR/04_A2.jpg)
+  * Ветка А3 (png)
+  ![none](https://raw.githubusercontent.com/VittoTory/Design-IS/master/4LR/05_A3.jpg)
+  * Ветка А4 (png)
+  ![none](https://raw.githubusercontent.com/VittoTory/Design-IS/master/4LR/08_A4.jpg)
 ### Лабораторная 5
 ### Лабораторная 6
 ### Лабораторная 7
