@@ -7,12 +7,12 @@ skinparam class {
 class Entity as "Модули"
 class Ef as "Экранная форма"
 class ModOb as "Модуль обработки"
-class FormSten as "Форма выбора типа перегородки и размещения ее на плане"
-class FormSaveP as "Форма сохранения плана"
-class FormTD as "Форма выбора точки доступа (ТД) и размещения её на плане"
-class FormCTD as "Форма редактирования параметров выбранной ТД"
-class FormSaveM as "Форма сохранения модели"
-class ModSign as "Модуль расчета распространения сигнала"
+class FormSten as "Форма выбора \n типа перегородки \n и размещения ее на плане"
+class FormSaveP as "Форма сохранения \n плана"
+class FormTD as "Форма выбора \n точки доступа (ТД) \n и размещения её на плане"
+class FormCTD as "Форма редактирования \n параметров \n выбранной ТД"
+class FormSaveM as "Форма сохранения \n модели"
+class ModSign as "Модуль расчета \n распространения сигнала"
 Entity <|-- Ef
 Entity <|-- ModOb
 Ef <|-- FormSten
