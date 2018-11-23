@@ -67,9 +67,9 @@
 * Разработка диаграмм в RAMUS
   - Декомпозиция всех автоматизируемых блоков в DFD
   * Ветка А32 (png)
-  ![none](https://raw.githubusercontent.com/VittoTory/Design-IS/master/5LR/06_A32.jpg)
+  ![none](https://raw.githubusercontent.com/VittoTory/Design-IS/master/5LR/06A32.jpg)
   * Ветка А33 (png)
-  ![none](https://raw.githubusercontent.com/VittoTory/Design-IS/master/5LR/07_A33.jpg)
+  ![none](https://raw.githubusercontent.com/VittoTory/Design-IS/master/5LR/07A33.jpg)
   - Определение типа каждого блока в DFD (экранная форма, печатная форма, модуль обработки) - экранная форма, модуль обработки (?).
   - Определение типа каждого хранилища в DFD (файл, таблица БД, структура в памяти, внешний сервис) - файл, БД.
 ### Лабораторная 6
