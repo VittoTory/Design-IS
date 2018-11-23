@@ -78,9 +78,10 @@
   - Загрузка модели и диаграммы классов в репозиторий
 * **Завершение идентификации всех ролей**
   - Построение ERD (диаграммы классов без атрибутов) для всех ролей
-  - Загрузка модели и диаграммы классов в репозиторий
+  - [Загрузка модели и диаграммы классов в репозиторий](https://github.com/VittoTory/Design-IS/blob/master/6LR/UML%20ролей.txt)
+  ![none](https://raw.githubusercontent.com/VittoTory/Design-IS/master/6LR/UML%20ролей.png)
 * **Завершение идентификации всех модулей**
   - Построение ERD (диаграммы классов без атрибутов) для всех модулей
-  - Загрузка модели и диаграммы классов в репозиторий
-  - Завершение редактирование readme.md (Отчет о 6 лабораторных) <br>
+  - [Загрузка модели и диаграммы классов в репозиторий](https://github.com/VittoTory/Design-IS/blob/master/6LR/UML%20модулей.txt) <br>
+ ![none](https://raw.githubusercontent.com/VittoTory/Design-IS/master/6LR/UML%20модулей.png) 
 [Тут искать пример построения деревьев (uml 4)](https://github.com/okoff/okoff.github.io/tree/master/oop)
