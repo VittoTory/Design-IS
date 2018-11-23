@@ -9,17 +9,15 @@ class Person as "Люди"
 class Property as "Инструменты воздействия"
 class Sotr as "Проектировщик БЛВС"
 class Analit as "Аналитик"
-class Computer as "ПК"
-class Inet as "Интернет"
+class Computer as "Персональный \n компьютер"
 class Print as "Принтер"
-class ChInst as "Маркеры, рулетка, карандаш"
-class SPO as "Специализированное программное обеспечение"
+class ChInst as "Чережные \n инструменты"
+class SPO as "Специализированное \n программное обеспечение"
 Entity <|-- Person
 Entity <|-- Property
 Person <|-- Sotr
 Person <|-- Analit
 Property <|-- Computer
-Property <|-- Inet
 Property <|-- Print
 Property <|-- ChInst
 Property <|-- SPO
