@@ -56,7 +56,7 @@
   * Ветка А2 (png)
   ![none](https://raw.githubusercontent.com/VittoTory/Design-IS/master/4LR/04_A2.jpg)
   * Ветка А3 (png)
-  ![none](https://raw.githubusercontent.com/VittoTory/Design-IS/master/4LR/05_A3.jpg)
+  ![none](https://raw.githubusercontent.com/VittoTory/Design-IS/master/4LR/05_A3.jpg) 
   * Ветка А4 (png)
   ![none](https://raw.githubusercontent.com/VittoTory/Design-IS/master/4LR/08_A4.jpg)
 ### Лабораторная 5
