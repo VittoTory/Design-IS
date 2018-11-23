@@ -52,7 +52,7 @@
   * Ветка А0 (png)
   ![none](https://raw.githubusercontent.com/VittoTory/Design-IS/master/4LR/02_A0.jpg)
   * Ветка А1 (png)
-  ![none](https://raw.githubusercontent.com/VittoTory/Design-IS/master/4LR/03_A1.jpg)
+  ![none](https://raw.githubusercontent.com/VittoTory/Design-IS/master/4LR/03A1.jpg)
   * Ветка А2 (png)
   ![none](https://raw.githubusercontent.com/VittoTory/Design-IS/master/4LR/04_A2.jpg)
   * Ветка А3 (png)
