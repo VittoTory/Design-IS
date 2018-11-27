@@ -11,6 +11,65 @@ class in as "Входящие"
 class control as "Управляющие"
 class out as "Выходящие"
 
+class Info as "Документы"
+class ResIn as "Ресурсы (файлы)"
+class ResOut as "Ресурсы (файлы)"
+class Dokument as "Документы"
+
+class Pap as "Бумажные"
+class El as "Электронные"
+class InRes as "Интернет-ресурс"
+class Elect as "Электронные"
+class A1 as "Проанализированные \n планы \n с параметрическими \n данными"
+class A2 as "Сведения о беспроводных \n технологиях  \n сетевого доступа\nи необходимом \n оборудовании"
+class B1 as "Исходные чертежи \n в среде моделирования"
+class B2 as "Модель \n расположения стен \n и их характеристик"
+class C1 as "Коэффициенты \n затухания \n сигнала WiFi"
+class C2 as "Семейство \n стандартов \n IEEE 802.11"
+class D1 as "Модель \n расположения стен \n и их характеристик"
+class D2 as "Модель \n расположения \n точек доступа"
+
+Entity <|-- in
+Entity <|-- control
+Entity <|-- out
+
+in <|-- Info
+in <|-- ResIn
+control <|-- Dokument
+out <|-- ResOut
+
+Info <|-- Pap
+Info <|-- El
+Pap <|-- A1
+El <|-- A2
+ResIn <|-- B1
+ResIn <|-- B2
+Dokument <|-- InRes
+Dokument <|-- Elect
+InRes <|-- C1
+Elect <|-- C2
+ResOut <|-- D1
+ResOut <|-- D2
+
+hide members
+hide circle
+hide methods
+@enduml
+
+
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+
+class Entity as "Потоки"
+
+class in as "Входящие"
+class control as "Управляющие"
+class out as "Выходящие"
+
 class Info as "Информация"
 class ResIn as "Ресурсы (файлы)"
 class ResOut as "Ресурсы (файлы)"
