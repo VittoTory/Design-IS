@@ -5,6 +5,29 @@ skinparam class {
 	BorderColor Black
 }
 class Entity as "Роли"
+class Person as "Проектная группа"
+
+class Sotr as "Проектировщик БЛВС"
+class Analit as "Аналитик"
+Entity <|-- Person
+
+Person <|-- Sotr
+Person <|-- Analit
+
+hide members
+hide circle
+hide methods
+@enduml
+
+
+Предыдущая версия
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class Entity as "Роли"
 class Person as "Люди"
 class Property as "Инструменты воздействия"
 class Sotr as "Проектировщик БЛВС"
