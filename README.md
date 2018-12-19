@@ -87,7 +87,7 @@
  ![none](https://raw.githubusercontent.com/VittoTory/Design-IS/master/6LR/UML%20модулей.png) 
 [Тут искать пример построения деревьев (uml 4)](https://github.com/okoff/okoff.github.io/tree/master/oop)
 
-## Курсовой проект
+## [Курсовой проект](https://github.com/VittoTory/Design-IS/blob/master/Курсовая%20по%20ПИС%20Епанешникова%20В.В..docx)
 * **Определение числовых показателей для поставленной цели моделирования**
   - уточнение вопросов, на которые должна ответить модель
   - формализация вопросов и определение показателей
